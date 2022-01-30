@@ -1,0 +1,16 @@
+{
+    "channel": "- Vibey Lyriz -",
+    "name" : "Dreams pt. II",
+    "singer" : "Lost Sky (feat. Sara Skinner)",
+    "key" : "Lost Sky Dreams pt. II",
+    "url": "https://youtu.be/L7kF4MXXCoA",
+    "bg_path" : "F:/Python_Project/Youtube/Untitled/ext/backgrounds/background.mp4",
+    "font_path" : "F:/Python_Project/Youtube/Untitled/ext/fonts/Think Big.ttf",
+    "out_path" : "F:/Python_Project/Youtube/Untitled/temp",
+    "isfade" : true,
+    "isoverlay" : true,
+    "fps" : 15,
+    "length" : 185,
+    "margin" : 250,
+    "lyrics": ""
+}
